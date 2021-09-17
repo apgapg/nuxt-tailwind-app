@@ -1,5 +1,7 @@
 # nuxt-tailwind-app
 
+Nuxt sample using tailwindcss and [daisyui](https://daisyui.com/)
+
 ## Build Setup
 
 ```bash
