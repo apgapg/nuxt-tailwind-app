@@ -1,6 +1,6 @@
 # nuxt-tailwind-app
 
-Nuxt sample using tailwindcss and [daisyui](https://daisyui.com/)
+Nuxt sample using tailwindcss
 
 <img width="1552" alt="Screenshot 2021-09-17 at 10 06 38 AM" src="https://user-images.githubusercontent.com/13887407/133725266-64ef608e-eb69-44ef-b9a6-9c66ebf2f5ea.png">
 

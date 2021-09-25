@@ -8,6 +8,11 @@
       </a>
       <button class="btn btn-primary rounded-none">DaisyUI Button</button>
 
+      <div class="my-4">
+        <button class="rounded-md px-4 py-2 bg-blue-500 hover:bg-blue-700 text-white">My Button</button>
+
+      </div>
+
       <div class="mt-8 bg-white overflow-hidden shadow sm:rounded-lg p-6">
         <h2 class="text-2xl leading-7 font-semibold">
           Welcome to your Nuxt Application
