@@ -2,7 +2,7 @@
 
 Nuxt sample using tailwindcss
 
-<img width="1552" alt="Screenshot 2021-09-17 at 10 06 38 AM" src="https://user-images.githubusercontent.com/13887407/133725266-64ef608e-eb69-44ef-b9a6-9c66ebf2f5ea.png">
+![Screenshot from 2021-09-25 16-38-21](https://user-images.githubusercontent.com/13887407/134769467-b35b15cd-4ee8-4e23-8079-95de03e4f607.png)
 
 ## Build Setup
 
